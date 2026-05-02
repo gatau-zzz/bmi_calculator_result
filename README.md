@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="halaman_utama" src="https://github.com/user-attachments/assets/d53f0fc5-f548-4908-a962-4a1dabfe06d7" />
 # bmi_calclulator
 
 A new Flutter project.
